@@ -1,0 +1,45 @@
+// used to style the tiltle setion of the page
+.title {
+	background-color: aqua;
+	width: 300px;
+	height: 100px;
+	border-radius: 8px;
+	padding: 15px;
+	border-bottom: 80px;
+	margin-bottom: 20px;
+	margin-left: 110px;
+	overflow-y: scroll;
+	// style the button of add new task
+	// button {
+	// 	border-radius: 6px;
+	// 	background-color: rgb(238, 238, 114);
+	// 	text-align: center;
+	// 	color: black;
+	// 	height: 15px;
+	// 	padding-top: 2px;
+	// 	padding-bottom: 20px;
+	// 	padding-right: 15px;
+	// 	padding-left: 15px;
+	// }
+    span{
+        float: left;
+    }
+}
+.modal_button{
+	border-radius: 6px;
+		background-color: rgb(62, 87, 226);
+		text-align: center;
+		color: black;
+		height: 15px;
+		padding-top: 2px;
+		padding-bottom: 20px;
+		padding-right: 15px;
+		padding-left: 15px;
+}
+
+// style the task div
+.todoList {
+	width: 40%;
+	margin: 40px auto;
+	padding: 20px;
+}
