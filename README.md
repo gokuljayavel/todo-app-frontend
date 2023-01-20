@@ -1,4 +1,3 @@
-# Assignment 9
 ## TO Do App
 
 ### Description
